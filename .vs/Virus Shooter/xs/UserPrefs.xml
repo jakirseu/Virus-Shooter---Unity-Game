@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F11F670F-3F5D-CC57-7FB0-02826CD8464D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AdManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AdManager.cs" Line="123" Column="14" />
+      <File FileName="Assets/Scripts/MenuManager.cs" Line="17" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Virus Shooter" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="AdManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="125fe31d-72ed-427b-a551-3a153c64f36d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
